@@ -16,15 +16,15 @@ import stock from '../img/stock_manangement.rar';
 
 const webDevelopment = [
   {
-    icon: Img3Dmatic,
+    icon: ImgPos,
     skills: [
       {
-        name: "3D Marketplace info Website",
-        desc: "I made this info website for a presentation to my instructor of the project practicum.",
+        name: "Point of Sale System",
+        desc: "I built it for Hands-on project of Web development and Cloud computing Technology Course.",
         btn_github: "View Github",
         btn_demo: "View demo",
-        view:"https://github.com/Nathan-Pongs/3dmatics",
-        link: "https://nathan-pongs.github.io/3dmatics/",
+        view:"https://github.com/Nathan-Pongs/pos-app",
+        link: "https://pos-app-frontend-tau.vercel.app/",
       }
     ],
   },
@@ -42,15 +42,15 @@ const webDevelopment = [
     ],
   },
   {
-    icon: ImgPos,
+    icon: Img3Dmatic,
     skills: [
       {
-        name: "Point of Sale System",
-        desc: "I built it for Hands-on project of Web development and Cloud computing Technology Course.",
+        name: "3D Marketplace info Website",
+        desc: "I made this info website for a presentation to my instructor of the project practicum.",
         btn_github: "View Github",
         btn_demo: "View demo",
-        view:"https://github.com/Nathan-Pongs/pos-app",
-        link: "https://pos-app-frontend-tau.vercel.app/",
+        view:"https://github.com/Nathan-Pongs/3dmatics",
+        link: "https://nathan-pongs.github.io/3dmatics/",
       }
     ],
   },
