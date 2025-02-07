@@ -327,7 +327,6 @@ const Project = () => {
                                 >                  
                                     <p className="text-xl font-semibold">{skill.name}</p>
                                     <p>{skill.desc}</p>
-                                    <button className="bg-[#2C2C2C] text-white p-2 m-5"><a href={skill.download}>{skill.btn_download}</a></button>
                                     <button className="bg-[#2C2C2C] text-white p-2"><a href={skill.view}>{skill.btn_github}</a></button>
                                 </div>
                             ))}
